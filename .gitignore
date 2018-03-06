@@ -1,0 +1,10 @@
+__pycache__
+.coverage
+*.pyc
+*.egg-info
+build
+*.iml
+.project
+.classpath
+.settings
+target
